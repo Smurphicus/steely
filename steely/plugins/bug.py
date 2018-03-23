@@ -7,6 +7,8 @@
 
 bug titles can't be longer than 20 chars
 bug descriptions can't be longer than 1000 chars or less than 20 chars.
+
+TODO: Add bug delete, bug modify, bug close and bug comment
 '''
 
 from tinydb import TinyDB, Query
